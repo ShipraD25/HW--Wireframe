@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,16 +8,29 @@
     <title>Easier Layout</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
-  <div class="container">
-    <header>header</header>
-    <nav>nav</nav>
-    <div class="clearfix"></div>
-    <section>section</section>
-    <aside>aside</aside>
-  </div>
-    <footer>footer</footer>
 
-</div>
+<body>
+    <section class="horizontalrows">
+        <p class="headings">header</p>
+        <p class="headings">Nav</p>
+    </section>
+
+    <div class="clearfix">
+        <p class="section">section
+            <p class="article">article
+                <div id="inner">h1 h2 h3</div>
+                <div id="para">p</div>
+            </p>
+        </p>
+        <p class="aside">aside</p>
+
+    </div>
+
+
+    <section class="headings">
+        <p>footer</p>
+    </section>
 </body>
+
+
 </html>
