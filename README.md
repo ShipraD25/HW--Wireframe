@@ -1,8 +1,6 @@
 # HW--Wireframe
 
-## picture
-
-## Tech used-
+## Tech used 
  - HTML - used to create elements on the DOM
  - CSS - styles html elements on page
  - Git - version control system to track changes to source code
@@ -46,3 +44,5 @@ The challenging part of the assignment was selection of various css properties a
 
 </html>
 ```
+## Output
+![Rendered HTML](https://github.com/ShipraD25/HW--Wireframe/blob/master/output.png)
