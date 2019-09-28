@@ -3,11 +3,11 @@
 ## picture
 
 ##Tech used-
- HTML - used to create elements on the DOM
- CSS - styles html elements on page
- Git - version control system to track changes to source code
- GitHub - hosts repository that can be deployed to GitHub Pages
- VS code - editor used.
+ - HTML - used to create elements on the DOM
+ - CSS - styles html elements on page
+ - Git - version control system to track changes to source code
+ - GitHub - hosts repository that can be deployed to GitHub Pages
+ - VS code - editor used to edit the code.
 
 ## Summary
 
