@@ -1,4 +1,4 @@
-# HW--Wireframe
+# Building Wireframe
 
 ## Tech used 
  - HTML - used to create elements on the DOM
