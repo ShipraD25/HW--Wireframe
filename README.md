@@ -2,7 +2,7 @@
 
 ## picture
 
-##Tech used-
+## Tech used-
  - HTML - used to create elements on the DOM
  - CSS - styles html elements on page
  - Git - version control system to track changes to source code
@@ -17,7 +17,7 @@ The challenging part of the assignment was selection of various css properties a
 
 ## Code Snippet
 
-
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -45,3 +45,4 @@ The challenging part of the assignment was selection of various css properties a
 
 
 </html>
+```
